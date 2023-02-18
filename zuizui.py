@@ -9,3 +9,7 @@ def check_name(name):
     return flag
 
 print(check_name(a))
+<<<<<<< HEAD
+=======
+dd
+>>>>>>> cb7de0b3ecb96ee4ef24169f327db9f189c4bc9e
