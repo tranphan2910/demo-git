@@ -1,4 +1,4 @@
-a = ['ho','Tuan','thanh']
+a = ['Ho','Tuan','thanh']
 def check_name(name): 
     flag = True         
     for i in name:
